@@ -26,7 +26,8 @@ I shamelessly stole this idea from
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
 * [jbranchaud/til](https://github.com/jbranchaud/til)
-* 
+
+
 ## License
 
 &copy; 2015-2016 Josh Branchaud
