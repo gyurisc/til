@@ -10,10 +10,13 @@ This repository documents my personal learning journey...
 ### Categories
 
 * [C#](#Csharp)
+* [GO](#GO)
 
 ---
 
 ### CSharp
+
+### GO
 
 ## About
 
