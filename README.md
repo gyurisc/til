@@ -2,7 +2,9 @@
 
 > Today I Learned
 
-This repository docuemnts my personal learning journey... 
+This repository documents my personal learning journey... 
+
+
 ---
 
 ### Categories
