@@ -20,7 +20,7 @@ _1 TILs and counting..._
 
 ### Github 
 
-- [How to create folders in github without using git](how_to_create_folders_in_github.md)
+- [How to create folders in github without using git](github/how_to_create_folders_in_github.md)
 - 
 ### Go
 
