@@ -11,6 +11,7 @@ _1 TILs and counting..._
 ### Categories
 
 * [R](#r)
+* [Bash](#bash)
 * [C#](#Csharp)
 * [Github](#github)
 * [Go](#Go)
