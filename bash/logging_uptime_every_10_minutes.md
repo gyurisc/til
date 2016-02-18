@@ -5,7 +5,7 @@ Today, I learned how to append a log of uptime to a texfile and run it periodica
  - To write uptime of a machine use command 
 
  ```bash
-update
+uptime
 ```
  - To append the output of a command use >> 
  ```bash
