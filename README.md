@@ -10,11 +10,14 @@ _1 TILs and counting..._
 
 ### Categories
 
+* [R](#r)
 * [C#](#Csharp)
 * [Github](#github)
 * [Go](#Go)
 
 ---
+
+### R
 
 ### CSharp
 
