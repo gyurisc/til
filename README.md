@@ -18,6 +18,11 @@ _2 TILs and counting..._
 
 ---
 
+### Bash
+
+- [Logging uptime every 10 minutes with crontab and uptime](bash/logging_uptime_every_10_minutes.md)
+ 
+
 ### CSharp
 
 ### Github 
@@ -27,8 +32,6 @@ _2 TILs and counting..._
 ### Go
 
 ### R
-
-- [Logging uptime every 10 minutes with crontab and uptime](bash/logging_uptime_every_10_minutes.md)
 
 ## About
 
