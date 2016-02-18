@@ -4,21 +4,19 @@
 
 This repository documents my personal learning journey... 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [R](#r)
 * [Bash](#bash)
 * [C#](#Csharp)
 * [Github](#github)
 * [Go](#Go)
+* [R](#r)
 
 ---
-
-### R
 
 ### CSharp
 
@@ -26,8 +24,11 @@ _1 TILs and counting..._
 
 - [How to create folders in github without using git](github/how_to_create_folders_in_github.md)
 
-
 ### Go
+
+### R
+
+- [Logging uptime every 10 minutes with crontab and uptime](bash/logging_uptime_every_10_minutes.md)
 
 ## About
 
