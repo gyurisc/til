@@ -3,7 +3,7 @@
 Today, I learned how to append a log of uptime to a texfile and run it periodically
 
  - To write uptime of a machine use command 
-```bash
+ ```bash
 update
 ```
  - To append the output of a command use >> 
