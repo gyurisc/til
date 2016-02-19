@@ -2,11 +2,11 @@ In C# 6.0, it is possible to embedd variables in the string literals instead of 
 So, you can do this: 
  ```csharp
 string name = "Jack";
-string message = $"You don't know, {name}.";
+string message = $"You don't know, {name}!";
 ```
 Instead of this: 
  ```csharp
 string name = "Jack";
-string message = string.Format("You don't know, {0}.",name);
+string message = string.Format("You don't know, {0}!",name);
 ```
 
