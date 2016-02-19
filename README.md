@@ -4,7 +4,7 @@
 
 This repository documents my personal learning journey... 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -24,6 +24,8 @@ _2 TILs and counting..._
  
 
 ### CSharp
+
+- [String interpolation in C# 6.0](csharp/string_interpolation_in_csharp_6.md)
 
 ### Github 
 
