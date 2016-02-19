@@ -1,6 +1,9 @@
 In C# 6.0, it is possible to embedd variables in the string literals instead of using string.Format. 
 So, you can do this: 
-
+ ```csharp
+string name = "Jack";
+string message = $"You don't know, {name}.";
+```
 Instead of this: 
  ```csharp
 string name = "Jack";
