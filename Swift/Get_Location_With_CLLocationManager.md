@@ -6,6 +6,11 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     var manager: CLLocationManager!
     
 ```
+You will also need to add the following key with a value to your _Info.plist_ 
+
+
+
+_NSLocationAlwaysUsageDescription = "The App always needs the location"_
 
 Then initialize the location manager and register as a delegate for listening to incoming location updates. 
 
@@ -23,7 +28,7 @@ Then initialize the location manager and register as a delegate for listening to
     }
 ```
 
-The add the following delegate method to your view controller 
+Then add the following delegate method to your view controller 
 
  ```swift 
     func locationManager(manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
