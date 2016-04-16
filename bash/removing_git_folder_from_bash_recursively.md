@@ -6,6 +6,5 @@ Today, I learned how to remove the .git or other dot folders recursively
 find . | grep .git | xargs rm -rf
 ```
 
-Source: 
+Source: [Remove all git files recursively](http://montanaflynn.me/2013/03/devops/remove-all-git-files-recursively/)
 
-http://montanaflynn.me/2013/03/devops/remove-all-git-files-recursively/
