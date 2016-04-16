@@ -23,6 +23,7 @@ _5 TILs and counting..._
 
 - [Logging uptime every 10 minutes with crontab and uptime](bash/logging_uptime_every_10_minutes.md)
 - [How to create 100 new files with touch command](bash/how_to_create_100_new_files_with_touch.md)
+- [Remove .git files recursively](bash/removing_git_folder_from_bash_recursively.md)
 
 ### CSharp
 
