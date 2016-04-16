@@ -1,6 +1,10 @@
-Command: 
+# How to remove the .git folder recursively
 
+Today, I learned how to remove the .git or other dot folders recursively 
+
+ ```bash
 find . | grep .git | xargs rm -rf
+```
 
 Source: 
 
