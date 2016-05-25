@@ -32,7 +32,8 @@ _5 TILs and counting..._
 ### Github 
 
 - [How to create folders in github without using git](github/how_to_create_folders_in_github.md)
-- [How to set email for your git repo locally](github/setting_username_and_email_locally.md)
+- [How to set email for your git repo localy](github/setting_username_and_email_locally.md)
+- [Using emojis in github files and commit messages](github/using_emojis_in_github_files.md)
 
 ### Go
 
