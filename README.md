@@ -4,7 +4,7 @@
 
 This repository documents my personal learning journey... 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _8 TILs and counting..._
 ### CSharp
 
 - [String interpolation in C# 6.0](csharp/string_interpolation_in_csharp_6.md)
+- [Dictionary initializer in C# 6.0](csharp/dictionary_initializer_in_csharp6.md)
 
 ### Github 
 
