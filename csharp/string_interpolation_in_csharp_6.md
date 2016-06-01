@@ -13,7 +13,7 @@ string message = string.Format("You don't know, {0}!",name);
 Escaping the interpolated string is done using {{ in case of { character and }} in case of } character. The " character is esxcaped by \". 
 
  ```csharp
- string name = "Jack";
+string name = "Jack";
 string json = $"{{ \"name\" : \"{name}\"}}";
 
 ```
