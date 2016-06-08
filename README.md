@@ -14,6 +14,7 @@ _9 TILs and counting..._
 * [C#](#Csharp)
 * [Github](#github)
 * [Go](#Go)
+* [Python](#python)
 * [R](#r)
 * [Swift](#swift)
 
@@ -38,6 +39,9 @@ _9 TILs and counting..._
 - [Using emojis in github files and commit messages](github/using_emojis_in_github_files.md)
 
 ### Go
+
+### Python 
+- [How to strip whitespace from beginning and end of a string](python/strip_whitespace_from_beginning_end_of_string.md)
 
 ### R
 
