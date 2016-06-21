@@ -11,7 +11,7 @@ _9 TILs and counting..._
 ### Categories
 
 * [Bash](#bash)
-* [C#](#Csharp)
+* [C#](#CSharp)
 * [Github](#github)
 * [Go](#Go)
 * [Python](#python)
@@ -44,8 +44,9 @@ _9 TILs and counting..._
 - [How to strip whitespace from beginning and end of a string](python/strip_whitespace_from_beginning_end_of_string.md)
 
 ### R
+
 - [How to read CSV file in R script](/R/reading_csv_file_in_r_script.md)
-- 
+
 ### Swift
 
 - [Getting location with CLLocationManager](/Swift/get_location_with_CLLocationManager.md)
