@@ -42,6 +42,7 @@ _12 TILs and counting..._
 
 ### Python 
 - [How to strip whitespace from beginning and end of a string](python/strip_whitespace_from_beginning_end_of_string.md)
+- [Removing index column in pandas when saving to csv file](python/removing_index_column_in_pandas_when_saving_to_csv.md)
 
 ### R
 
